@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1688919459 source:d:\new folder\c++_project\main.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	<cstdio>
+
